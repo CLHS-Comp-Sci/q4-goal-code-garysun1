@@ -1,0 +1,1 @@
+The purpose of ths goal was to finish the “Microsoft Azure: AI Fundamentals” certification. The file certification_course.md details the course sequence and lists the modules I have completed by this point.
